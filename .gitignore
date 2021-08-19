@@ -1,0 +1,9 @@
+.idea/
+CMakeCache.txt
+CMakeFiles/
+a.out
+cmake-build-debug/
+cmake_install.cmake
+multitype_array
+vgcore.*
+
